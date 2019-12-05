@@ -1,0 +1,18 @@
+이곳에 막 수집된 데이터들이 저장됩니다.
+There are datas(posts) which are just crawled in here.
+
+Number,Campus,Area,Company,Title,Href,Status,R_date,D_date
+15849,죽전,서울,(재)중소기업연구원,[(재)중소기업연구원] 계약직연구원 모집,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=f581881c43971947b5702bf9f5fe7124,진행중,2019.09.27,2019.10.03
+15848,죽전,대구,한국정보화진흥원,[한국정보화진흥원] 2019년 한국정보화진흥원 체험형 청년인턴 및 육아휴직 대체계약직 채용,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=2d9eae6ffd25f3793bb152bcc0ce5bb4,진행중,2019.09.27,2019.10.10
+15847,죽전,전국,뷰웍스,[뷰웍스] 2020 신입사원 공개채용,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=cd1ec5daacae90b90ef9be945b0cf690,진행중,2019.09.27,2019.10.07
+15846,죽전,서울,광진구,[광진구] 광진구시설관리공단 사무직공채,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=c0e57fb6f3b0175666d488ab5adbd2f8,진행중,2019.09.27,2019.10.15
+15845,죽전,전국,SPC그룹,[SPC그룹] 2019년 하반기 SPC 그룹 대졸 신입사원 공채(~10/10),ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=331baee897c41efdbc3051e19bfa8d45,진행중,2019.09.27,2019.10.10
+15844,죽전,전국,한전KPS,[한전KPS(주)] 2019년도 하반기 신입사원 채용 안내,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=9c69129cdb344cc01bd03e2716cdd01b,진행중,2019.09.27,2019.10.04
+15843,죽전,경기,경기도청,[경기도청] 경기도 청원산림보호직원 채용공고,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=78d01b4d9c6f89d51e296d9b5e5acb27,진행중,2019.09.27,2019.10.12
+15842,죽전,서울,서울시설공단,[서울시설공단] 2019년 서울시설공단 직원(사무·기술·조무직) 공개채용,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=0a23145d5517feba4d8b3f4e7c340b07,진행중,2019.09.27,2019.10.14
+15841,죽전,전국,농협중앙회,[농협중앙회 및 계열사]2019년 하반기 농협중앙회 및 계열사 신입공개 채용,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=d8471e1d725db9fcf0e399726237e2bc,진행중,2019.09.27,2019.10.02
+15840,죽전,서울,(주)케이씨에이,[(주)케이씨에이] 2019년 신입사원 모집,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=ee9fc394f55186bd7e7476e5a6667070,상시,2019.09.27,상시채용
+15839,죽전,서울 외,신세계아이앤씨,[신세계아이앤씨] 2019 하반기 신입사원 채용 공고,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=236daa1bf20843d8d00d45702959b3e3,진행중,2019.09.27,2019.10.11
+15838,죽전,서울,Deloitte,[Deloitte] 세무자문본부 GES 그룹 채용 공고,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=4cd7a885f4c0211380a9a8f26ac4fe3f,진행중,2019.09.27,2019.10.10
+15837,죽전,경기,(주)미래컴퍼니,[미래컴퍼니] 엔지니어(신입/전문연구요원) 채용,ptfol/empymn/general/findRecomendMngtView.do?encRecSeq=e2233300fe749dbd41a9360b1c7da44d,진행중,2019.09.27,2019.10.06
+...
