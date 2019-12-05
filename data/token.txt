@@ -1,0 +1,6 @@
+이곳에 카카오 애플리케이션 토큰이 저장 됩니다.
+이 토큰은 주기적으로 자동 업데이트 됩니다.
+There is a kakao application token in here.
+This token is automatically updated periodically.
+
+AbcDeFGHIJkLMno1pqrStUVWX2yZABCD3EFGHIj4lMnOPQRsT5UvwX
