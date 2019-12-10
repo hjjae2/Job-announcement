@@ -8,8 +8,8 @@ data1 = {'username': '@user_id', 'password': '@user_pwd'}
 data2 = {'userId': '@user_id', 'rtnUrl': ''}
 
 loginTry_url_post_1 = "https://webinfo.dankook.ac.kr/member/logon.do?sso=ok"
-loginTry_url_post_2 = "https://youngwoong.dankook.ac.kr/common/user/loginProc.do"
 loginTry_url_get_1 = "https://youngwoong.dankook.ac.kr/common/user/dialog/sso/ssocheck.do?rtnUrl=null"
+loginTry_url_post_2 = "https://youngwoong.dankook.ac.kr/common/user/loginProc.do"
 
 base_url = "ptfol/empymn/general/findRecomendMngtView.do?"  # It's used to create href.
 page_url = "https://youngwoong.dankook.ac.kr/ptfol/empymn/general/findRecomendMngtList.do?paginationInfo.currentPageNo={}" # It's used to crawl target site.
