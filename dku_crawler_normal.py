@@ -78,4 +78,4 @@ if __name__ == '__main__':
     # Write posts using data frame.
     names = ["Number", "Campus", "Area", "Company", "Title", "Href", "Status", "R_date", "D_date"]
     _result_df = pd.DataFrame(_result, columns=names)
-    _result_df.to_csv('./data/posts.csv',index=False, mode='w', encoding='utf-8')
+    _result_df.to_csv('./data/normal_posts.csv',index=False, mode='w', encoding='utf-8')
