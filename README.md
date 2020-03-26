@@ -7,3 +7,11 @@
 - Python 3
 - Docker (on Ubuntu server)
 
+### Docs
+- URL
+
+### Demo
+- URL
+
+### Date
+- 2019.12.05 ~ 2019.12.12 (1 week)
