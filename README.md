@@ -22,7 +22,7 @@
   - `known_internship_posts.txt`
   - `known_normal_posts.txt`
 - 토큰 (카카오 API)
-  - token.txt
+  - `token.txt`
 
 ### Env
 - Python 3
@@ -39,7 +39,7 @@
 
 <br>
 
-*개선 예정*
+### *개선 예정*
 - *리팩토링*
   - *모듈화*
   - *주석 통일*
