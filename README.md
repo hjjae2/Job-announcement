@@ -32,7 +32,7 @@
 - <img src="./image/example01.jpg" width="40%" height="40%">
 
 ### Example 2
-- http://hjjae2.iptime.org/files/portfolio_hj-dkujob-scrapping.pdf
+- http://hj2server.ddns.net/files/portfolio_hj-dkujob-scrapping.pdf
 
 ### Date
 - 2019.12.05 ~ 2019.12.12 (1 week)
